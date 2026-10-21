@@ -1,6 +1,6 @@
 # AlexeyMaster67
 
-### Software Developer Р’В· Desktop & Web Applications
+### Software Developer Р вЂ™Р’В· Desktop & Web Applications
 
 Independent developer focused on building high-performance desktop applications, modern web tools, and open-source software for the tabletop gaming community.
 
@@ -37,3 +37,9 @@ Modern desktop companion application for tabletop role-playing games with full s
 * **Architecture**: Tauri (Rust backend) + React 18, TypeScript, Tailwind CSS, Vite
 * **Features**: Complete rules database, automated character sheet, initiative tracker, loot generator, animated dice rolling, and local offline data storage
 * **Latest Release**: [v2.0.3 for Windows](https://github.com/AlexeyMaster67/TTRPG-Helper/releases/tag/v2.0.3)
+
+---
+
+### Community
+
+[![Discord Server](https://img.shields.io/badge/Discord-Join%20TTRPG%20Helper-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seESktTbXF)
