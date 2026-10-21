@@ -1,4 +1,4 @@
-﻿# AlexeyMaster67
+# AlexeyMaster67
 
 ### Software Developer · Desktop & Web Applications
 
