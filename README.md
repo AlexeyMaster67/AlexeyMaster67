@@ -1,6 +1,6 @@
 # AlexeyMaster67
 
-### Software Developer Р вЂ™Р’В· Desktop & Web Applications
+### Software Developer | Desktop & Web Applications
 
 Independent developer focused on building high-performance desktop applications, modern web tools, and open-source software for the tabletop gaming community.
 
@@ -32,7 +32,7 @@ Independent developer focused on building high-performance desktop applications,
 ### Featured Project
 
 #### [TTRPG Helper](https://github.com/AlexeyMaster67/TTRPG-Helper)
-Modern desktop companion application for tabletop role-playing games with full support for D&D 2024 (5.5e) and 5e rules.
+Modern offline-first desktop companion application for tabletop role-playing games with full support for D&D 2024 (5.5e), Pathfinder 2e, and Cyberpunk RED.
 
 * **Architecture**: Tauri (Rust backend) + React 18, TypeScript, Tailwind CSS, Vite
 * **Features**: Complete rules database, automated character sheet, initiative tracker, loot generator, animated dice rolling, and local offline data storage
@@ -42,4 +42,4 @@ Modern desktop companion application for tabletop role-playing games with full s
 
 ### Community
 
-[![Discord Server](https://img.shields.io/badge/Discord-Join%20TTRPG%20Helper-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seESktTbXF)
+[![Discord Server](https://img.shields.io/badge/Discord-Join%20TTRPG%20Helper-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XYQSHWVAuE)
