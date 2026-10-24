@@ -36,7 +36,7 @@ Modern offline-first desktop companion application for tabletop role-playing gam
 
 * **Architecture**: Tauri (Rust backend) + React 18, TypeScript, Tailwind CSS, Vite
 * **Features**: Complete rules database, automated character sheet, initiative tracker, loot generator, animated dice rolling, and local offline data storage
-* **Latest Release**: [v2.0.3 for Windows](https://github.com/AlexeyMaster67/TTRPG-Helper/releases/tag/v2.0.3)
+* **Latest Release**: [v2.0.9 for Windows](https://github.com/AlexeyMaster67/TTRPG-Helper/releases/tag/v2.0.9)
 
 ---
 
